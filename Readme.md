@@ -20,4 +20,4 @@
 [Few-Shot Text Generation with Pattern-Exploiting Training](https://aclanthology.org/2021.emnlp-main.32.pdf)\
 [Making Pre-trained Language Models Better Few-shot Learners](https://aclanthology.org/2021.acl-long.295.pdf)
 [Persona-Knowledge Dialogue Multi-Context Retrieval and Enhanced Decoding Methods](https://arxiv.org/pdf/2207.13919.pdf)
-
+[Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/pdf/1908.10084.pdf)
