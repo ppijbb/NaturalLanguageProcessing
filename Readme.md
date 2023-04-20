@@ -12,8 +12,7 @@
 > Reading Pappers \
 [GLM-130B: AN OPEN BILINGUAL PRE-TRAINED MODEL](https://arxiv.org/pdf/2210.02414v1.pdf) \
 [Ankh : Optimized Protein Language Model Unlocks General-Purpose Modelling](https://arxiv.org/ftp/arxiv/papers/2301/2301.06568.pdf)\
-[Generative Language Models for Paragraph-Level Question Generation](https://arxiv.org/pdf/2210.03992v3.pdf)\
-[Fine-Tuning Language Models from Human Preferences](https://arxiv.org/pdf/1909.08593v2.pdf)
+[HuaTuo (华驼): Tuning LLaMA Model with Chinese Medical Knowledge](https://arxiv.org/pdf/2304.06975v1.pdf)
 
 > Read Pappers \
 [CoMPM: Context Modeling with Speaker’s Pre-trained Memory Tracking for Emotion Recognition in Conversation](https://arxiv.org/pdf/2108.11626.pdf) \
@@ -24,6 +23,8 @@
 [Towards a Human-like Open-Domain Chatbot](https://arxiv.org/pdf/2001.09977.pdf)\
 [Implicit Unlikelihood Training: Improving Neural Text Generation withReinforcement Learning](https://arxiv.org/pdf/2101.04229.pdf)\
 [Few-Shot Text Generation with Pattern-Exploiting Training](https://aclanthology.org/2021.emnlp-main.32.pdf)\
-[Making Pre-trained Language Models Better Few-shot Learners](https://aclanthology.org/2021.acl-long.295.pdf)
-[Persona-Knowledge Dialogue Multi-Context Retrieval and Enhanced Decoding Methods](https://arxiv.org/pdf/2207.13919.pdf)
-[Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/pdf/1908.10084.pdf)
+[Making Pre-trained Language Models Better Few-shot Learners](https://aclanthology.org/2021.acl-long.295.pdf)\
+[Persona-Knowledge Dialogue Multi-Context Retrieval and Enhanced Decoding Methods](https://arxiv.org/pdf/2207.13919.pdf)\
+[Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/pdf/1908.10084.pdf)\
+[Generative Language Models for Paragraph-Level Question Generation](https://arxiv.org/pdf/2210.03992v3.pdf)\
+[Fine-Tuning Language Models from Human Preferences](https://arxiv.org/pdf/1909.08593v2.pdf)
