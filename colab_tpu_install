@@ -1,0 +1,18 @@
+#!/bin/bash
+
+apt-get install htop libomp5 -y
+sudo pip install -q -U pip
+pip uninstall -q earthengine-api torch torchvision torchaudio torchtext torchdata torch-xla -y
+pip install -U -q jsonargparse[signatures]>=4.17.0
+DS_BUILD_OPS=1 pip install deepspeed
+pip install \
+   lightning lightning-utilities \
+   pytorch-ignite \
+   tensorboard-plugin-profile \
+   pyOpenSSL \
+   transformers \
+   torch==2.0.0 torchvision==0.15.1 torchaudio==2.0.0 torchtext==0.15.1 torchdata==0.6.0\
+   neuron
+pip install -U \
+    cloud-tpu-client==0.10 \
+    https://storage.googleapis.com/tpu-pytorch/tmp/colab_tmp_whl/torch_xla-2.0.0.dev20230516+colab-cp310-cp310-linux_x86_64.whl
