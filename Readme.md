@@ -13,7 +13,9 @@
   - 병렬처리를 통한 LLM 서비스 연구
 ---
 
-> Reading Pappers \
+> Reading Pappers
+
+
 
 
 > Read Pappers \
