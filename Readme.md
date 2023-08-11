@@ -9,6 +9,8 @@
   - pytorch Transformer 구조 모델 연구
 * rlhl
   - gpt 강화학습 연구
+* LLM parallelism
+  - 병렬처리를 통한 LLM 서비스 연구
 ---
 
 > Reading Pappers \
