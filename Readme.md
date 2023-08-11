@@ -7,6 +7,8 @@
   - 기본적인 텍스트 분석 기법
 * Transformers
   - pytorch Transformer 구조 모델 연구
+* rlhl
+  - gpt 강화학습 연구
 ---
 
 > Reading Pappers \
