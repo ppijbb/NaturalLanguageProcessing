@@ -11,6 +11,11 @@
   - gpt 강화학습 연구
 * LLM parallelism
   - 병렬처리를 통한 LLM 서비스 연구
+* LLM Benchmark
+  - LLM task 별 평가 방법 연구
+* PEFT
+  - LLM Finetuning Method 연구
+
 ---
 
 > Reading Pappers \
