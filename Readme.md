@@ -15,7 +15,7 @@
 
 > Reading Pappers \
 [Evolutionary Optimization of Model Merging Recipes](https://arxiv.org/pdf/2403.13187) \
-[AVATAR: Optimizing LLM Agents for Tool-Assisted Knowledge Retrieval](https://arxiv.org/pdf/2406.11200v2) \
+[AVATAR: Optimizing LLM Agents for Tool-Assisted Knowledge Retrieval](https://arxiv.org/pdf/2406.11200v2)
 
 
 
