@@ -19,10 +19,7 @@
 ---
 
 > Reading Pappers \
-[Evolutionary Optimization of Model Merging Recipes](https://arxiv.org/pdf/2403.13187) \
-[AVATAR: Optimizing LLM Agents for Tool-Assisted Knowledge Retrieval](https://arxiv.org/pdf/2406.11200v2)\
-[MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://arxiv.org/pdf/2402.14905)
-
+[Large Language Diffusion Models](https://arxiv.org/pdf/2502.09992)\
 
 
 > Read Pappers \
@@ -41,4 +38,7 @@
 [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/pdf/1909.08593v2.pdf) \
 [GLM-130B: AN OPEN BILINGUAL PRE-TRAINED MODEL](https://arxiv.org/pdf/2210.02414v1.pdf) \
 [Ankh : Optimized Protein Language Model Unlocks General-Purpose Modelling](https://arxiv.org/ftp/arxiv/papers/2301/2301.06568.pdf)\
-[HuaTuo (华驼): Tuning LLaMA Model with Chinese Medical Knowledge](https://arxiv.org/pdf/2304.06975v1.pdf)
+[HuaTuo (华驼): Tuning LLaMA Model with Chinese Medical Knowledge](https://arxiv.org/pdf/2304.06975v1.pdf)\
+[Evolutionary Optimization of Model Merging Recipes](https://arxiv.org/pdf/2403.13187)\
+[AVATAR: Optimizing LLM Agents for Tool-Assisted Knowledge Retrieval](https://arxiv.org/pdf/2406.11200v2)\
+[MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://arxiv.org/pdf/2402.14905)
