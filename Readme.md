@@ -19,8 +19,24 @@
 ---
 
 > Reading Pappers \
-[Large Language Diffusion Models](https://arxiv.org/pdf/2502.09992)\
-
+[DeepSeek-V3 Technical Report](https://arxiv.org/pdf/2412.19437)\
+[UNA: UNIFYING ALIGNMENTS OF RLHF/PPO, DPO AND KTO BY A GENERALIZED IMPLICIT REWARD FUNCTION](https://openreview.net/pdf?id=xoXn62FzD0)\
+[SimPO: Simple Preference Optimization with a Reference-Free Reward](https://arxiv.org/pdf/2405.14734)\
+[Coconut: Chain of Continuous Thought](https://arxiv.org/pdf/2412.06769v1)\
+[DAPO (Dynamic Accuracy-based Proximal Optimization)](https://arxiv.org/pdf/2503.14476)\
+[Param∆ FOR DIRECT WEIGHT MIXING: POST-TRAIN LARGE LANGUAGE MODEL AT ZERO COST](https://arxiv.org/pdf/2504.21023)\
+[Speculative Thinking: Enhancing Small-Model Reasoning with Large Model Guidance at Inference Time](https://arxiv.org/pdf/2504.12329)\
+[Evaluation of Architecture, Training/Tuning, and Inference Efficiency](https://arxiv.org/pdf/2505.13840)\
+[Evaluation Metrics for Various Models (AAR, AEM, ARR)](https://aclanthology.org/2022.findings-acl.48.pdf)\
+[Latent Typing and Reconstruction Results Analysis of Input Tokens](https://arxiv.org/pdf/2210.12582)\
+[Experimental Details and Evaluation Metrics for LLM Training](https://arxiv.org/pdf/2306.08543)\
+[Document Excerpt (Content Unclear)](https://arxiv.org/pdf/2403.07816)\
+[Analysis of Mixture-of-Experts (MoE) Models](https://arxiv.org/pdf/2409.12136)\
+[3D Shape Reconstruction with Various Architectures and Activations](https://arxiv.org/pdf/2410.21643)\
+[Reference List Excerpt](https://arxiv.org/pdf/2502.03387)\
+[SPCT Pipeline and GRM Derivation](https://arxiv.org/pdf/2504.02495)\
+[TTRL Method and Math Model Performance Comparison](https://arxiv.org/pdf/2504.16084)\
+[Continuous Thought Machines](https://arxiv.org/pdf/2505.05522)
 
 > Read Pappers \
 [CoMPM: Context Modeling with Speaker’s Pre-trained Memory Tracking for Emotion Recognition in Conversation](https://arxiv.org/pdf/2108.11626.pdf) \
@@ -41,4 +57,5 @@
 [HuaTuo (华驼): Tuning LLaMA Model with Chinese Medical Knowledge](https://arxiv.org/pdf/2304.06975v1.pdf)\
 [Evolutionary Optimization of Model Merging Recipes](https://arxiv.org/pdf/2403.13187)\
 [AVATAR: Optimizing LLM Agents for Tool-Assisted Knowledge Retrieval](https://arxiv.org/pdf/2406.11200v2)\
-[MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://arxiv.org/pdf/2402.14905)
+[MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://arxiv.org/pdf/2402.14905)\
+[Large Language Diffusion Models](https://arxiv.org/pdf/2502.09992)
